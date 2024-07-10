@@ -1,0 +1,6 @@
+#requirements that must be dowloaded to run the aplication
+pandas
+flask
+numpy
+numba
+flask_cors

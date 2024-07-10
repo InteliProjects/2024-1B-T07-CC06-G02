@@ -1,0 +1,10 @@
+# gitignore geral para o projeto
+
+**/node_modules/
+*.pyc
+*.csv
+codigo/algoritmo/clusters.html
+
+**/venv/
+
+**cache/
